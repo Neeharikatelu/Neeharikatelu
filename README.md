@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeharika Telu</h1>
-<h3 align="center">Passionate about data analysis and machine learning, with hands-on experience in Python, data engineering. Skilled in extracting insights from complex data and eager to apply my expertise in Data Analysis, Machine Learning, and Python Development.</h3>
+<h3 align="center">Passionate about data analysis and machine learning, with hands-on experience in Python, data science. Skilled in extracting insights from complex data and eager to apply my expertise in Data Analysis, Machine Learning, and Artificial Intelliegence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeharikatelu&label=Profile%20views&color=0e75b6&style=flat" alt="neeharikatelu" /> </p>
 
