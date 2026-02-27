@@ -1,19 +1,26 @@
 <h1 align="center">Hi 👋, I'm Neeharika Telu</h1>
-<h3 align="center">Passionate about data analysis and machine learning, with hands-on experience in Python, data science. Skilled in extracting insights from complex data and eager to apply my expertise in Data Analysis, Machine Learning, and Artificial Intelliegence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeharikatelu&label=Profile%20views&color=0e75b6&style=flat" alt="neeharikatelu" /> </p>
+<h3 align="center">
+Software Engineer with experience in Go-based microservices and distributed systems at JumpCloud. 
+Strong foundation in Data Science, Machine Learning, and Graph-based modeling with hands-on experience in 
+cloud systems, blockchain analytics, and real-world AI applications.
+</h3>
 
-<p align="left"> <a href="https://twitter.com/@neeharika_telu" target="blank"><img src="https://img.shields.io/twitter/follow/@neeharika_telu?logo=twitter&style=for-the-badge" alt="@neeharika_telu" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neeharikatelu&label=Profile%20views&color=0e75b6&style=flat" alt="neeharikatelu" />
+</p>
 
-- 🔭 I’m currently working on [Hypergraph Based Analysis of ERC 721 Token Transactions](https://github.com/Neeharikatelu/Major-project.git)
+- 🔭 Currently working as a **Software Engineer at JumpCloud** building scalable Go microservices for identity and directory synchronization systems.
 
-- 🌱 I’m currently learning **Temporal Properties of Higher Order Evolving Networks and their use in modeling Financial transactions. Diving into graph algorithms, optimization techniques, and large-scale data processing!**
+- 🚀 Previously built an **IoT-enabled Smart Agriculture System** integrating edge computing, 5G communication, and ML-based crop recommendations at ARTPARK, IISc.
 
-- 👯 I’m looking to collaborate on **Data Analysis and Web Development**
+- 🧠 Research Focus: **Hypergraph modeling of ERC-721 blockchain transactions**, higher-order evolving networks, and large-scale data analysis.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Neeharikatelu](https://github.com/Neeharikatelu)
+- 🌱 Exploring **Distributed Systems, Graph Algorithms, Optimization, and Advanced Data Engineering**.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/neeharika-telu/](https://www.linkedin.com/in/neeharika-telu/)
+- 👯 Open to collaborating on **Backend Systems, Data Engineering, and ML-driven applications**.
+
+- 👨‍💻 Projects: https://github.com/Neeharikatelu
 
 - 📫 How to reach me **neeharikatelu13@gmail.com**
 
@@ -26,7 +33,7 @@
 
  <h3 align="left">Coding Profile:</h3>
 <p align="left"> 
-  
+
 <a href="https://www.codechef.com/users/neeharikatelu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neeharikatelu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neeharikatelu13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neeharikatelu13" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/neeharik0l97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neeharik0l97" height="30" width="40" /></a>
