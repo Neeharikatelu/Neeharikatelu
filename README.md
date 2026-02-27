@@ -18,7 +18,7 @@ cloud systems, blockchain analytics, and real-world AI applications.
 
 - 🌱 Exploring **Distributed Systems, Graph Algorithms, Optimization, and Advanced Data Engineering**.
 
-- 👯 Open to collaborating on **Backend Systems, Cloud, AI & ML-driven applications**.
+- 👯 Open to collaborating on **Backend Systems, Cloud, Agentic AI & ML-driven applications**.
 
 - 👨‍💻 Projects: https://github.com/Neeharikatelu
 
