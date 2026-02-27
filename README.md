@@ -18,7 +18,7 @@ cloud systems, blockchain analytics, and real-world AI applications.
 
 - 🌱 Exploring **Distributed Systems, Graph Algorithms, Optimization, and Advanced Data Engineering**.
 
-- 👯 Open to collaborating on **Backend Systems, Data Engineering, and ML-driven applications**.
+- 👯 Open to collaborating on **Backend Systems, Cloud, AI & ML-driven applications**.
 
 - 👨‍💻 Projects: https://github.com/Neeharikatelu
 
@@ -28,8 +28,8 @@ cloud systems, blockchain analytics, and real-world AI applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@neeharika_telu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@neeharika_telu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neeharika-telu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neeharika-telu/" height="30" width="40" /></a>
+<a href="https://twitter.com/@neeharika_telu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@neeharika_telu" height="30" width="40" /></a>
 
  <h3 align="left">Coding Profile:</h3>
 <p align="left"> 
