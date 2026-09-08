@@ -16,7 +16,7 @@ cloud systems, blockchain analytics, and real-world AI applications.
 
 - 🧠 Research Focus: **Hypergraph modeling of ERC-721 blockchain transactions**, higher-order evolving networks, and large-scale data analysis.
 
-- 🌱 Exploring **Distributed Systems, Graph Algorithms, Optimization, and Advanced Data Engineering**.
+- 🌱 Exploring **Distributed Systems, Graph Algorithms, and Optimization**.
 
 - 👯 Open to collaborating on **Backend Systems, Cloud, Agentic AI & ML-driven applications**.
 
