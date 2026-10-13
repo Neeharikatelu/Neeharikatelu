@@ -2,8 +2,6 @@
 
 <h3 align="center">
 Software Engineer with experience in Go-based microservices and distributed systems at JumpCloud. 
-Strong foundation in Data Science, Machine Learning, and Graph-based modeling with hands-on experience in 
-cloud systems, blockchain analytics, and real-world AI applications.
 </h3>
 
 <p align="left">
